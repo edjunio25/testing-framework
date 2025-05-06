@@ -1,4 +1,5 @@
 from TestCase import TestCase
+
 class MyTest(TestCase):
 
     def set_up(self):
